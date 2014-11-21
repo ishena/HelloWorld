@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-The first repository ever!
+My first repository ever!
